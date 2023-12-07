@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hola 👋
 
-¡Hola! Soy Paula, Ingeniera Química especializada en el desarrollo y aplicación de técnicas analíticas de control de medicamentos.
+Soy Paula, Ingeniera Química especializada en el desarrollo y aplicación de técnicas analíticas de control de medicamentos.
 
 Actualmente trabajo desde hace ya 7 años en un laboratorio desarrollando y transfiriendo métodos de control de materias primas y productos terminados de la industria farmacéutica.
 Me desempeño en un equipo interdisciplinario con profesionales de distintas áreas y diferentes edades.
